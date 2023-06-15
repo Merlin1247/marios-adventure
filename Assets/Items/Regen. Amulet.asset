@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ed3dc4e3758c64eb7c1100039c4a0e, type: 3}
+  m_Name: Regen. Amulet
+  m_EditorClassIdentifier: 
+  itemID: 3
+  name: Regeneration Amulet
+  description: This amulet emits a refreshing burst of positive energy when rubbed.
+  type: 3
+  damageBonus: 0
+  damageclass1: 0
+  damageclass2: 0
+  damageclass3: 0
+  healthBoost: 3
+  hbperturn: 1
+  tier: 3
+  durability: 0
+  maxDurability: 0
+  weight: 0
+  unbreakable: 1
+  isFast: 0

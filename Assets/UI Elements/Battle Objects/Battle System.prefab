@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5560837943930417460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5560837943930417462}
+  - component: {fileID: 5560837943930417461}
+  - component: {fileID: 5560837943930417463}
+  m_Layer: 0
+  m_Name: Battle System
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5560837943930417462
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5560837943930417460}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5560837943930417461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5560837943930417460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7d0e83727c82024eac4a6158bd27746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  turn: 0
+  playerNum: 0
+  sceneMiddle: {fileID: 0}
+  playerPrefabRed: {fileID: 4172716269330613751, guid: 2e4bb815ed901f142bc0a78f96540474, type: 3}
+  playerPrefabGreen: {fileID: 6535626278046380006, guid: 5a26cb5078864ce45848feffddc61164, type: 3}
+  playerPrefabBlue: {fileID: 571719068463937101, guid: 9183e16819d4a444c9a663083e6c665b, type: 3}
+  playerPrefabOrange: {fileID: 7659268528076266348, guid: a7be27b71616ffd4c9f76bc4fac51d0b, type: 3}
+  enemies: []
+  enemyBattlestation1: {fileID: 0}
+  enemyBattlestation2: {fileID: 0}
+  enemyBattlestation3: {fileID: 0}
+  enemyBtn1pos: {fileID: 0}
+  enemyBtn2pos: {fileID: 0}
+  enemyBtn3pos: {fileID: 0}
+  currentenemyBtn1: {fileID: 0}
+  currentenemyBtn2: {fileID: 0}
+  currentenemyBtn3: {fileID: 0}
+  playerBattlestationRed: {fileID: 0}
+  playerBattlestationOrange: {fileID: 0}
+  playerBattlestationBlue: {fileID: 0}
+  playerBattlestationGreen: {fileID: 0}
+  attackSlot1: {fileID: 0}
+  attackSlot2: {fileID: 0}
+  attackSlot3: {fileID: 0}
+  attackButton: {fileID: 0}
+  itemButton: {fileID: 0}
+  attackButtonComponent: {fileID: 0}
+  itemButtonComponent: {fileID: 0}
+  BattleUI: {fileID: 0}
+  OrangeHUD: {fileID: 0}
+  BlueHUD: {fileID: 0}
+  RedHUD: {fileID: 0}
+  GreenHUD: {fileID: 0}
+  EmptyHUD: {fileID: 0}
+  playerDialogueUI: {fileID: 0}
+  redHP: {fileID: 0}
+  blueHP: {fileID: 0}
+  orangeHP: {fileID: 0}
+  greenHP: {fileID: 0}
+  enemy1HP: {fileID: 0}
+  enemy2HP: {fileID: 0}
+  enemy3HP: {fileID: 0}
+  redHealthText: {fileID: 0}
+  blueHealthText: {fileID: 0}
+  greenHealthText: {fileID: 0}
+  orangeHealthText: {fileID: 0}
+  unit1HealthText: {fileID: 0}
+  unit2HealthText: {fileID: 0}
+  unit3HealthText: {fileID: 0}
+  bossManager: {fileID: 0}
+  MainMenuButton: {fileID: 0}
+  redUnderline: {fileID: 0}
+  inventoryUI: {fileID: 0}
+  won: 0
+  clear: 0
+  wave: 0
+  enemyOneActive: 0
+  enemyTwoActive: 0
+  enemyThreeActive: 0
+  Progress: 0
+  globalProgress: 0
+  deadPlayers: 0
+  damagepotential: 0
+  attackingtarget: 0
+  RedDeadOnLoad: 0
+  preventAtk: 0
+  atkText: {fileID: 0}
+  atkHPText: {fileID: 0}
+  hpText: {fileID: 0}
+  crText: {fileID: 0}
+  grid_square: {fileID: 0}
+  square: {fileID: 0}
+  battleSystem: {fileID: 0}
+  transition: {fileID: 0}
+  dialogue: {fileID: 0}
+  backgrounds: []
+  background: {fileID: 0}
+  levelCode: 0
+  achievements: 
+  levelsComplete: 
+  redItems: 
+  blueItems: 
+  greenItems: 
+  orangeItems: 0000000000000000
+  alternatePaths: 
+  sblueHP: 0
+  sredHP: 0
+  sgreenHP: 0
+  sorangeHP: 0
+  redLevels: 
+  blueLevels: 
+  greenLevels: 
+  orangeLevels: 
+  xp: 0
+  playerMinDamage: 02000000020000000200000002000000
+  playerMaxDamage: 05000000060000000700000008000000
+  ateSandwich: 0
+--- !u!114 &5560837943930417463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5560837943930417460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 266efa838f45dd14b82236f97a54c814, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  globalProgress: 0
+  OrangeInfoText: {fileID: 0}
+  RedInfoText: {fileID: 0}
+  BlueInfoText: {fileID: 0}
+  GreenInfoText: {fileID: 0}
+  levelCode: 0
+  achievements: 
+  levelsComplete: 
+  redItems: 
+  blueItems: 
+  greenItems: 
+  orangeItems: 
+  alternatePaths: 
+  sblueHP: 0
+  sredHP: 0
+  sgreenHP: 0
+  sorangeHP: 0
+  redLevels: 
+  blueLevels: 
+  greenLevels: 
+  orangeLevels: 
+  xp: 0
+  forestTiles: {fileID: 0}
+  jungleTiles: {fileID: 0}
+  beachTiles: {fileID: 0}
+  currentTiles: {fileID: 0}
+  mapTiles: {fileID: 0}
+  itemGet: {fileID: 0}
+  sceneMiddle: {fileID: 0}
+  cameraPos: {fileID: 0}
+  givingNumber: 0
+  isWalking: 0
+  inDialogue: 0
+  autoWalk: -1
+  transition: {fileID: 0}
+  dialogue: {fileID: 0}
+  path: {fileID: 0}
+  level: {fileID: 0}
+  WMPlayer: {fileID: 0}
+  currentWMPlayer: {fileID: 0}
+  otherMiddle: {fileID: 0}
+  spawnLocation: {fileID: 0}

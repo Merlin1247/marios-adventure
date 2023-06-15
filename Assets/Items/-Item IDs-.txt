@@ -1,0 +1,33 @@
+0 - Empty Item
+1 - Health potion
+2 - Health potion II
+3 - Regeneration Amulet
+4 - Rotten flesh
+5 - Splash potion of health
+6 - Potion of strength
+7 - Splash potion of weakness
+8 - Poisonous potato
+9 - Medkit
+10 - Infinity Gauntlet
+11 - Jetpack
+12 - Repair kit
+13 - Water bottle
+14 - Sandwich
+15 - Splash potion of harming
+16 - Booby Trap
+17 - Narcotic
+18 - Milk
+
+69 - Wither rose
+
+100 - Carrot
+101 - Bow
+102 - Key
+103 - Notch Sword
+104 - Spear
+
+200 - Shield
+201 - Magic shield
+202 - Magic mirror
+
+696969 - OP developer sword

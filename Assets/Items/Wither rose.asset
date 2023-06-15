@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ed3dc4e3758c64eb7c1100039c4a0e, type: 3}
+  m_Name: Wither rose
+  m_EditorClassIdentifier: 
+  itemID: 69
+  name: Wither rose
+  description: While you have this item you take 3 damage per turn.
+  type: 5
+  damageBonus: 0
+  damageclass1: 0
+  damageclass2: 0
+  damageclass3: 0
+  healthBoost: 0
+  hbperturn: -3
+  tier: 0
+  durability: 0
+  maxDurability: 0
+  weight: 0
+  unbreakable: 1
+  isFast: 0

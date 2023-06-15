@@ -1,0 +1,67 @@
+fileFormatVersion: 2
+guid: e7d0e83727c82024eac4a6158bd27746
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sceneMiddle: {instanceID: 0}
+  - playerPrefabRed: {instanceID: 0}
+  - playerPrefabGreen: {instanceID: 0}
+  - playerPrefabBlue: {instanceID: 0}
+  - playerPrefabOrange: {instanceID: 0}
+  - allosaurusPrefab: {instanceID: 0}
+  - argentavisPrefab: {instanceID: 0}
+  - baryonyxPrefab: {instanceID: 0}
+  - carnotaurusPrefab: {instanceID: 0}
+  - dilophosaurPrefab: {instanceID: 0}
+  - diplodocusPrefab: {instanceID: 0}
+  - raptorPrefab: {instanceID: 0}
+  - sabretoothPrefab: {instanceID: 0}
+  - spinosaurusPrefab: {instanceID: 0}
+  - trexPrefab: {instanceID: 0}
+  - gigaPrefab: {instanceID: 0}
+  - enemyBattlestation1: {instanceID: 0}
+  - enemyBattlestation2: {instanceID: 0}
+  - enemyBattlestation3: {instanceID: 0}
+  - enemyBtn1pos: {instanceID: 0}
+  - enemyBtn2pos: {instanceID: 0}
+  - enemyBtn3pos: {instanceID: 0}
+  - currentenemyBtn1: {instanceID: 0}
+  - currentenemyBtn2: {instanceID: 0}
+  - currentenemyBtn3: {instanceID: 0}
+  - playerBattlestationRed: {instanceID: 0}
+  - playerBattlestationOrange: {instanceID: 0}
+  - playerBattlestationBlue: {instanceID: 0}
+  - playerBattlestationGreen: {instanceID: 0}
+  - attackSlot1: {instanceID: 0}
+  - attackSlot2: {instanceID: 0}
+  - attackSlot3: {instanceID: 0}
+  - BattleUI: {instanceID: 0}
+  - OrangeHUD: {instanceID: 0}
+  - BlueHUD: {instanceID: 0}
+  - RedHUD: {instanceID: 0}
+  - GreenHUD: {instanceID: 0}
+  - EmptyHUD: {instanceID: 0}
+  - playerDialogueUI: {instanceID: 0}
+  - redHP: {instanceID: 0}
+  - blueHP: {instanceID: 0}
+  - orangeHP: {instanceID: 0}
+  - greenHP: {instanceID: 0}
+  - enemy1HP: {instanceID: 0}
+  - enemy2HP: {instanceID: 0}
+  - enemy3HP: {instanceID: 0}
+  - redHealthText: {instanceID: 0}
+  - blueHealthText: {instanceID: 0}
+  - greenHealthText: {instanceID: 0}
+  - orangeHealthText: {instanceID: 0}
+  - unit1HealthText: {instanceID: 0}
+  - unit2HealthText: {instanceID: 0}
+  - unit3HealthText: {instanceID: 0}
+  - MainMenuButton: {instanceID: 0}
+  - redUnderline: {instanceID: 0}
+  - inventoryUI: {instanceID: 0}
+  executionOrder: -50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

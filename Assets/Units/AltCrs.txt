@@ -1,0 +1,84 @@
+* = Rare	** = Very Rare
+
+Allosaurus - 4 (pack bonus) [desert*/plains]
+Argentavis - 2 (flying) [Anywhere]
+Baryonyx - 3 (Stun) [Swamp/river(?)]
+Carnotaurus - 4 (bleeding) [plains/forest*]
+Dilophosaur - 1 [Beach/near water]
+Diplodocus - 2 (annoying feature to add) [plains/forest]
+Raptor - 2 (Pack bonus) [forest/jungle*/plains*]
+Sabretooth  - 1 [snowy/mountain/forest/jungle*]
+Spinosaurus - 4 [Swamp*/river(?)]
+T. rex - 5 (Crit chance) [Plains*/lava]
+Carcharodontosaurus - 5 [Plains*/lava]
+Brachiosaurus - 4 (passive at first) [plains/forest]
+Itcthyornis - 1 (steals items) [Beach/Anywhere**]
+Deinopithecus - 3 (throws poop grenades) [Jungle]
+Deinosuchus - 2 [Swamp]
+Desmodus - 4 (flying) [Cave]
+Onyc - 1 (flying, light pison) [Cave]
+Thylocolio - 3 [Desert/Jungle]
+Direwolf - 2 [snowy]
+Snow owl - 3 [snowy]
+Valonosaur - 3 [snowy/lava]
+Managarmer - 4 [snowy]
+Titanoboa - 1 [Swamp/Jungle]
+Sarcocicious - 3 [Swamp]
+Capercicious - 2 [Swamp]
+Pirahna - 1 (Pack Bonus) [Swamp/Ocean/River]
+Therazinosaurus - 4 [Beach/Forest]
+Basilisk - 4 (Poison balls) [Lava]
+Microraptor - 1 (Stun) [Forest/Jungle/Plains/Desert]
+Perlovia - 3 (Stun) [Cave*]
+Mountain goats - 1 (Hit every other round) [Mountain]
+Daeodon - 2 [Snowy]
+Megalodon - 4 (Bleed) [Ocean]
+Tusatuthis - 3 (blindness) [Ocean]
+Plesiosaurus - 3 [Ocean]
+Manta ray - 1 (Stun) [Ocean]
+Dunkelosteus - 2 (Crit chance) [Ocean]
+Bassilosaurus - 3 [Ocean]
+Thorny Dragon - 2 (Poison/Torpidity) [Desert/Lava]
+Giant spider - 3 (Web) [Cave]
+Giant Scorpion - 3 (Poison) [Cave/Desert/Beach/Mountain]
+Meganera - 2 [Cave/jungle]
+Titanomirmatron - 2 [Cave/jungle]
+Ice Wyvern - 5 (Stun) [Snowy**]
+Fire Wyvern - 5 (Burning) [Lava*]
+Lightning Wyvern - 5 (Stun) [Lava*]
+Poison Wyvern - 5 (Poison) [Lava*]
+
+Killer Dodo - Boss
+Killer pig - Boss
+Mosasaur - Boss
+Giganotosaurus - Boss
+
+Pteranoton - 0 [Anywhere*]
+Iguanadon - 0 [lava/forest/plains]
+Mammoth - 0 [snowy]
+Ankylosaurus - 0 [Anywhere*]
+Moschops - 0 [Beach/Forest]
+Morellatops - 0 [Desert]
+Keruku - 0 [Snowy Beach]
+Pelagornus - 0 [Beach]
+Hespornus - 0 [Beach]
+
+
+Biomes:
+
+Snowy
+Swamp
+Abandoned village (Part of swamp)
+ - Barn w/ killer pig(?)
+Grass/field/plains
+Beach
+Forest
+Jungle
+Lava area
+Cave (Dark?)
+Desert
+Ocean (timed challenge)
+ - Pirate ship
+Mountain
+
+Starting Location: Forest
